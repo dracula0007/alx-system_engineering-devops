@@ -1,6 +1,6 @@
 # Postmortem: The Great Web Odyssey
 
-![web-outage](insert_creative_image_url_here)
+![web-outage]([insert_creative_image_url_here](https://github.com/dracula0007/alx-system_engineering-devops/blob/master/0x19-postmortem/OIG1.jfif))
 
 **Introduction:**
 Welcome, dear readers, to the dramatic saga of our web service outage! Join us on a rollercoaster ride through server logs, misadventures in code reviews, and the triumphant return of the web service from the brink of oblivion.
